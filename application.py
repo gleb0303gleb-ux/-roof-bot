@@ -1,3 +1,4 @@
+from telegram import Update
 from telegram import ReplyKeyboardRemove
 from telegram.ext import ContextTypes, ConversationHandler
 from keyboards import main_keyboard
